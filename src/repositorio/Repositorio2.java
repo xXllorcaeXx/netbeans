@@ -11,4 +11,6 @@ package repositorio;
  */
 public class Repositorio2 {
     
+    int num = 8;
+    
 }
